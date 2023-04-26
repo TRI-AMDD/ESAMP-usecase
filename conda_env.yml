@@ -1,0 +1,14 @@
+name: esamp
+channels:
+  - conda-forge
+dependencies:
+  - xgboost=1.7.4=cuda112py310hd9b4ab7_0
+  - matplotlib=3.7.1=py310hff52083_0
+  - seaborn=0.12.2=hd8ed1ab_0
+  - scikit-learn=1.2.2=py310h41b6a48_1
+  - tqdm=4.65.0=pyhd8ed1ab_1
+  - psycopg2=2.9.3=py310h416cc33_2
+  - numpy=1.23.5=py310h53a5b5f_0
+  - pandas=1.5.3=py310h9b08913_1
+  - python=3.10.10=he550d4f_0_cpython
+  - jupyterlab=3.5.3=pyhd8ed1ab_0
